@@ -1,4 +1,4 @@
-上游: https://github.com/coolsnowwolf/lede
+上游: https://github.com/coolsnowwolf/lede License 同上游
 
 
 1. 用于docker: openwrt-amlogic-meson8b-thunder-onecloud-rootfs.tar.gz 
@@ -13,7 +13,7 @@ cat openwrt-amlogic-meson8b-thunder-onecloud-rootfs.tar.gz | docker import - one
 ```
 
 
-# 下面的内容有AI后续生成，不保证正确，但是上面你的镜像确实是可用的，我懒得再次部署做教程
+# 下面的内容由AI后续生成，不保证正确，但是上面你的容器镜像确实是可用的，我懒得再次部署做教程
 
  部署到玩客云作为旁路由
  在你的玩客云（已刷入底层系统，如 Armbian 或 CasaOS，并装好 Docker）上，执行以下操作来拉取并运行：
