@@ -1,5 +1,6 @@
-1.用于docker: openwrt-amlogic-meson8b-thunder-onecloud-rootfs.tar.gz 
-2.用于线刷: openwrt-amlogic-meson8b-thunder-onecloud-ext4-emmc.img.gz
+1. 用于docker: openwrt-amlogic-meson8b-thunder-onecloud-rootfs.tar.gz 
+
+2. 用于线刷: openwrt-amlogic-meson8b-thunder-onecloud-ext4-emmc.img.gz
 
 # 线刷我没有刷过，我主要用来 docker 运行
 
