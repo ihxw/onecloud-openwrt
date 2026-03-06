@@ -55,10 +55,11 @@ openwrt 容器内执行:
 查找并注释 HTTPS 监听行：
 在文件中找到类似 list listen_https '0.0.0.0:443' 和 list listen_https '[::]:443' 的行。
 按 i 进入编辑模式，在这些行前面加上 # 号：
-
+```yaml
 Ini, TOML
 # list listen_https '0.0.0.0:443'
 # list listen_https '[::]:443'
+```
 禁用证书路径（可选）：
 如果有 option cert 和 option key 的配置，也建议一并注释掉。
 
