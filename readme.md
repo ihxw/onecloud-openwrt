@@ -1,3 +1,6 @@
+上游: https://github.com/coolsnowwolf/lede
+
+
 1. 用于docker: openwrt-amlogic-meson8b-thunder-onecloud-rootfs.tar.gz 
 
 2. 用于线刷: openwrt-amlogic-meson8b-thunder-onecloud-ext4-emmc.img.gz
